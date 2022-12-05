@@ -24,7 +24,7 @@ function Navbar() {
                             <Typography variant="h6" color="inherit">
                                 postagens
                             </Typography>
-                            </Box>
+</Box>
                         <Box mx={1} className='cursor'>
                             <Typography variant="h6" color="inherit">
                                 temas
